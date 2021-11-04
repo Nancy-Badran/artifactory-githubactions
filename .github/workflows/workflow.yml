@@ -13,7 +13,7 @@ jobs:
           JF_ARTIFACTORY_SERVER: ${{ secrets.JF_ARTIFACTORY_SERVER_1 }}
       - name: Run JFrog CLI
         run: |
-          # Collect environment variables for the build
+          # it is collect environment variables for the build
           jfrog rt bce
           # Collect VCS details from git and add them to the build
           jfrog rt bag
