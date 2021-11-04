@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: pythonProj
+Version: 0.1
+Summary: An example of how to create and publish to pypi.org
+Home-page: https://nancytest.jfrog.io/artifactory/api/pypi/default-pypi/simple
+Author: Nancy Badran
+Author-email: nancybadran84@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN

@@ -1,0 +1,3 @@
+--index-url https://nancybadran84@gmail.com:AKCp8k8Pe6jShZwKnQxSMNCXPqHR8JY7wdXxj2abKxxUD1Jxtc2nYVJ7LZ6tH3Go9KJo4bLTR@nancytest.jfrog.io/artifactory/api/pypi/default-pypi/simple
+PyYAML>3.11
+nltk

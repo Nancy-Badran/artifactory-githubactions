@@ -1,0 +1,5 @@
+version: 1
+type: pip
+resolver:
+  repo: default-pypi
+  serverId: artifactory-server1
